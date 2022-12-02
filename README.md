@@ -1,6 +1,7 @@
 unraid 开机恢复配置
 
-**参考yibiner/custom.script[https://github.com/yibiner/custom.script]配置
+**说明
+参考[**yibiner/custom.script**](https://github.com/yibiner/custom.script)配置
 1. 将项目clone到 `/boot/config`下，在 `/boot/config/go` 文件中最后添加 
 
    ```shell
